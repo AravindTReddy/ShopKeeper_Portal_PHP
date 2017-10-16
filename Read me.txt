@@ -1,0 +1,4 @@
+Two tables used,
+
+First one for shopkeepers data
+second one for Cart Items storage.
